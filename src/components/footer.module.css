@@ -1,0 +1,62 @@
+.footer {
+    width: 1920px;
+    height: 495px;
+    padding: 0px;
+    margin: 0px;
+    background-color: #333670;
+}
+
+.logo {
+    width: 289px;
+    height: 57px;
+}
+
+.contact {
+    color: #78DBAD;
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+.content {
+    margin: 140px 140px 0px 140px;
+    padding-top: 100px;
+    padding-bottom: 75px;
+    width: 1640px;
+    border-bottom: 1px solid #878AC6;
+    display: flex;
+}
+
+.item {
+    font-size: 20px;
+    color: white;
+    list-style-type: none;
+    padding-bottom: 25px;
+}
+
+.head {
+    color: white;
+    font-size: 40px;
+}
+
+.div {
+    flex-grow: 1;
+}
+
+.icons {
+    display: flex;
+    padding-top: 25px;
+    justify-content: space-between;
+}
+
+.icons img {
+    height: 50px;
+    width: 50px;
+}
+
+.copy {
+    font-size: 18px;
+    text-align: right;
+    margin-right: 140px;
+    margin-top: 25px;
+    color: white;
+}

@@ -2,15 +2,6 @@
 .logo {
     width: 227px;
     height: 44px;
-    margin-top: 28px;
-    margin-left: 140px;
-}
-
-.pyramid {
-    width: 901px;
-    height: 755px;
-    margin-top: 170px;
-    margin-left: 879px;
 }
 
 .login {
@@ -22,19 +13,19 @@
     color: white;
     border-radius: 6px;
     font-size: 20px;
-    margin-left: 1580px;
-    margin-top: 20px;
 }
 
 .navbar {
     display: flex;
+    padding: 28px 140px;
+    width: 1920px;
+    box-sizing: border-box;
 }
 
-/* 
-
-1366 * 768 
-
-1920 * 
-
-*/
-
+.nft {
+    color: white;
+    font-size: 20px;
+    flex-grow: 1;
+    text-align: right;
+    padding: 16px 80px 0px 0px;
+}
