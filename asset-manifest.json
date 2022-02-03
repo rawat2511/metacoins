@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/metacoins/static/css/main.7543f69e.css",
+    "main.js": "/metacoins/static/js/main.3d375e91.js",
+    "static/media/banner_right.png": "/metacoins/static/media/banner_right.3467ab55e6f2aa26ace8.png",
+    "index.html": "/metacoins/index.html",
+    "main.7543f69e.css.map": "/metacoins/static/css/main.7543f69e.css.map",
+    "main.3d375e91.js.map": "/metacoins/static/js/main.3d375e91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7543f69e.css",
+    "static/js/main.3d375e91.js"
+  ]
+}
